@@ -1,0 +1,116 @@
+nav {
+    font-family: 'Russo One', sans-serif;
+    background-color: rgb(255, 200, 191);
+    font-size: 25px;
+    height: 100px;
+	
+}
+
+nav a {
+    color: #5D2A42;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+nav a:hover {
+    color: #5D2A42;
+    opacity: 75%;
+}
+html,body{
+	background-color:
+	height:100%;
+	margin:0;
+	padding:0;
+	
+	
+}
+#team-img {
+    width: 530px;
+    height: 473px;
+	margin-left:30px;
+
+}
+
+.nav-item
+{
+	padding-left:13px;
+}
+
+.col {
+    margin: 30px;
+}
+.pra
+{
+	
+	font-family:Arial,Helvetica;
+	
+	font-size:20px;
+}
+
+.ProjectName {
+    font-family: 'Russo One', sans-serif;
+    font-size: 100px;
+	text-align:center;
+    line-height: 100px;
+    color: #5D2A42;
+    text-transform: uppercase;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	margin-bottom:5px;
+}
+
+.Project {
+    font-family: 'Russo One', sans-serif;
+    font-size: 100px;
+	text-align:center;
+    line-height: 100px;
+    color: #E00883;
+    text-transform: uppercase;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	margin-bottom:5px;
+}
+.subtitle {
+    font-family: 'Pattaya', sans-serif;
+    color: #9E5678;
+	text-align:center;
+}
+.bi-search {
+    width: 40px;
+}
+
+.search {
+    margin-top: 40px;
+    font-family: 'Saira Condensed', sans-serif;
+    outline: 2px solid #5D2A42;
+    padding: 8px;
+
+}
+.but
+{
+	margin-left: auto;
+  margin-right: auto;
+	
+	
+}
+
+table
+{
+	padding:50px;
+	
+	
+}
+table, th, td {
+	table-layout:fixed;
+	width:150px;
+	margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+  border-collapse: collapse;
+   background-color: rgb(255, 200, 191);
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+th{
+	font-style:bold;
+}
