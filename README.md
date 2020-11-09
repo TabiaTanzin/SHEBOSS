@@ -15,9 +15,9 @@ Database crashing, hard to find business database.
 We are proud of learning new skills, host a website, and could support women and connect people to purchase and sell business products and home made products as well, staying safe and happy at home, in the way we could.
 
 ## What I learned
-We learnt a lot new Front end and Backend development tools. Learnt how to handle different crashing errors. And 40% of businesses in US are women owned, and the statistics is rising, which we can be proud of.
+We learnt a lot new Front end and Backend development tools. Learnt how to handle different crashing errors. And 40% of businesses in Bangladesh are women owned, and the statistics is rising, which we can be proud of.
 
-## What's next for SHE-BOSS
+## Build with
 
 bootstrap
 css
